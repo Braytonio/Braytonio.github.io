@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About Colin Brayton
-subtitle: Why I am an anagram for the irony ant
+title: Colin Brayton
+subtitle: Or, why I am an anagram for the irony ant
 published: true
 ---
 
-![Radio Days](https://raw.githubusercontent.com/Braytonio/Braytonio.github.io/master/img/radio250.png)
+![Radio 
+Days](https://raw.githubusercontent.com/Braytonio/Braytonio.github.io/master/img/radio250.png)
 
 ### Dates & Data
 

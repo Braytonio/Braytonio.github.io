@@ -4,34 +4,35 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://braytonio.github.io"
-baseurl: "/"
+url: "http://Braytonio.github.io"
+baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-
+# Of course don't forget to change the username and projectname to YOUR username and project
+
 # Name of website
-title: The Irony Ant Bloc
+title: The Ant Irony Bloc
 
 # Short description of your site
-description: The Github home of Colin Brayton (irony ant bloc)
+description: Anagrammatically Colin Brayton, Oulipean
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  About Colin: "aboutme"
+  Publishing:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Learn To Mark Down: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "https://paranapiacaba.wiki.zoho.com/"
+  Ulysses in Ithaca: "https://paranapiacaba.wiki.zoho.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-  avatar: "/img/cathar-cross.png"
+avatar: "/img/catharcross.png"
 
 # --- Footer options --- #
 
@@ -41,37 +42,37 @@ author:
   name: Colin Brayton
   email: "gringolalia@gmail.com"
   facebook: braytonio  # eg. daattali
-  github: braytonio    # eg. daattali
+  github: Braytonio    # eg. daattali
   twitter: ColinBrayton   # eg. daattali
-  #linkedin: yourname  # eg. daattali
-  #xing: yourname      # eg. daattali
-  #stackoverflow: 6753247  # eg. "3943160/daattali"
-  #instagram: yourname # eg. daattali
-  #youtube: yourlink # eg. user/daattali or channel/daattali
+# linkedin: yourname  # eg. daattali
+#  xing: yourname      # eg. daattali
+#  stackoverflow: yourlink  # eg. "3943160/daattali"
+#  instagram: yourname # eg. daattali
+#  youtube: yourlink # eg. user/daattali or channel/daattali
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   facebook: true
   email: true
   twitter: true
   github: true
-  linkedin: true
-  #xing: false
-  #stackoverflow: true
-  #instagram: false
-  #youtube: false
+  linkedin: false
+  xing: false
+  stackoverflow: false
+  instagram: false
+  youtube: false
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://paranapiacaba.wiki.zoho.com/"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -84,7 +85,7 @@ url-pretty: "https://paranapiacaba.wiki.zoho.com/"  # eg. "deanattali.com/beauti
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Sao_Paulo"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -101,7 +102,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: false  # add comments to all blog posts
+      comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
@@ -172,4 +173,4 @@ gems:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
+
