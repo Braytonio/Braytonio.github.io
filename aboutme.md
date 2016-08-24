@@ -8,13 +8,24 @@ published: true
 ![Radio 
 Days](https://raw.githubusercontent.com/Braytonio/Braytonio.github.io/master/img/radio250.png)
 
+How do I scale and position images in Markdown? Is there some sort of 
+[plugin](https://github.com/datenstrom/yellow-plugins/tree/master/image)?
+
 ### Dates & Data
 
-Colin Brayton is a São Paulo, Brazil based translator, editor and journalist,  hailing originally from Brooklyn, New York by way of Berkeley, California. 
+Colin Brayton is a São Paulo, Brazil based translator, editor and 
+journalist.
 
-Colin has a master's degree in Comparative Literature from Berkeley in Medieval literature and also completed a ton doctoral coursework in Romance Philology while teaching lit to freshmen.
+Borned and raised in Lost Angles, California (1960s-198s) Colin spent 
+formative periods in the San Francisco Bay Area (1984-1996) and 
+Brooklyn, New York (1996-2007) as well. 
+ 
+Colin has a Master's degree in Comparative Literature from Berkeley in 
+medieval literature and also completed a ton doctoral coursework in 
+Romance Philology and Arabic literature while teaching lit to freshmen.
 
-This was before getting a life, moving to New York, and going to work as a journeyman copy editor. 
+This was before getting a life, moving to New York, and going to work as 
+a journeyman [copy editor](http://www.copydesk.org/). 
 
 Among many gigs, I -- back to the first person -- worked as copy chief of an Internet economy publication -- this was pre-9/11 -- and as managing editor and interim chief a securities industry weekly. 
 
@@ -26,7 +37,8 @@ Remarkably, some of my Blogger blogs from those days are still live. [The Confes
 
 But I still need to find where I blogged Nine-Eleven.
 
-[What a long strange trip it's been](https://www.youtube.com/watch?v=pafY6sZt0FE)
+[What a long strange trip it's 
+been](https://www.youtube.com/watch?v=pafY6sZt0FE).
 
 Colin is married to [Neuzas Paranhos](https://www.facebook.com/neuza.paranhos), a *paulistana* journalist, translator and soon to be novelist. 
 
@@ -40,8 +52,18 @@ Time marches on and senility sets in.
 
 ### Current Projects
 
-I have just finished testing a ton of flat-file CMS solutions and a ton and a half of static site generators over the past few months. 
+I have just finished testing a ton of [flat-file 
+CMS]](http://www.flatphile.co/) solutions and a ton and a half of 
+[static site generators](https://www.staticgen.com/) over the past few 
+months.
 
-I have a working toolset now, one that I am fairly adept and using -- considering I majored in poetry -- and would like to start building sites for NGOs -- in Portuguese, ONGs and OSCIPs -- artists and professionals, hosting them here on GitHub if possible.
+I have a working toolset now, one that I am fairly adept at using -- 
+considering I majored in poetry -- and would like to start building sites for NGOs -- in Portuguese, ONGs and OSCIPs -- artists and professionals, hosting them here on GitHub if possible.
 
-I am hosting my personal wiki with [Nearly Free Speech](http://sambodianas.nfshost.com/) but to my shame cannot even afford their rock-bottom prices. I need to get back to paying translation gigs -- softrware manuals might be a good gig. I could write-translate them and also [publish them](https://readthedocs.org/).   
+I am hosting my personal wiki with [Nearly Free Speech](http://sambodianas.nfshost.com/) but to my shame cannot even afford their rock-bottom prices. 
+
+I really need to get back to paying translation gigs -- software manuals 
+might be a good niche. I did a little of that in my New York days, 
+during which I did a little of everything 
+
+I could write-translate docs and also [publish them](https://readthedocs.org/).   
