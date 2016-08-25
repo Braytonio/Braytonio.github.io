@@ -28,7 +28,14 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn To Mark Down: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Ulysses in Ithaca: "https://paranapiacaba.wiki.zoho.com/"
+    - The Copydesk (ACES): "http://copydesk.org"
+    - National Writers Union: "https://nwu.org/"
+    - Editor & Publisher: "http://www.editorandpublisher.com/"
+    - American Translators Association: "https://www.atanet.org/"
+    - PEN Translation: "https://pen.org/translation"
+  Wikispace: 
+    - Zoho: "https://paranapiacaba.wiki.zoho.com/"
+    - GitHub: "https://github.com/Braytonio/Braytonio.github.io/wiki"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -173,4 +180,5 @@ gems:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
 
