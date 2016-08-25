@@ -31,6 +31,8 @@ navbar-links:
     - The Copydesk (ACES): "http://copydesk.org"
     - National Writers Union: "https://nwu.org/"
     - Editor & Publisher: "http://www.editorandpublisher.com/"
+    - American Translators Association: "https://www.atanet.org/"
+    - PEN Translation: "https://pen.org/translation"
   Wikispace: "https://paranapiacaba.wiki.zoho.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
