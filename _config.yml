@@ -28,7 +28,10 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn To Mark Down: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
-  Ulysses in Ithaca: "https://paranapiacaba.wiki.zoho.com/"
+    - The Copydesk (ACES): "http://copydesk.org"
+    - National Writers Union: "https://nwu.org/"
+    - Editor & Publisher: "http://www.editorandpublisher.com/"
+  Wikispace: "https://paranapiacaba.wiki.zoho.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
