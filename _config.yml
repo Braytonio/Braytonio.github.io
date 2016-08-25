@@ -33,7 +33,9 @@ navbar-links:
     - Editor & Publisher: "http://www.editorandpublisher.com/"
     - American Translators Association: "https://www.atanet.org/"
     - PEN Translation: "https://pen.org/translation"
-  Wikispace: "https://paranapiacaba.wiki.zoho.com/"
+  Wikispace: 
+    - Zoho: "https://paranapiacaba.wiki.zoho.com/"
+    - GitHub: "https://github.com/Braytonio/Braytonio.github.io/wiki"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
