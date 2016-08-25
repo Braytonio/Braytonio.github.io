@@ -41,7 +41,7 @@ Remarkably, some of my Blogger blogs from those days are still live. [The Confes
 
 And [The Hairy Eyeball](https://web.archive.org/web/*/http://hairyeyeball.net) is in The Wayback Machine, dating from May 2002. 
 
-I would still like to find where I blogged Nine-Eleven, if I was not too shell-shocked to record my reaction. And there is a YouUTube channel somewhere with exercises in subtitling.
+I would still like to find where I blogged Nine-Eleven, if I was not too shell-shocked to record my reaction. And there is a YouTube channel somewhere with exercises in subtitling.
 
 [What a long strange trip it's 
 been](https://www.youtube.com/watch?v=pafY6sZt0FE).
