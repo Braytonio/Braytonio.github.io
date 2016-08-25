@@ -55,23 +55,24 @@ Colin is married to [Neuzas Paranhos](https://www.facebook.com/neuza.paranhos), 
 Write something here about keeping up all the latest trends in 
 publishing and how I have personakl experience in everything from linotype -- as a paperboy with the [South Pasadena Review](https://www.facebook.com/South-Pasadena-Review-629113357233067/) in the early 1970s -- to dedicated WordPerfect terminals and phototypesetting to making a Quark server play nice with a ColdFusion Web server and so on and so forth.
 
-I was around when [blogs were invented and designated as such](https://en.wikipedia.org/wiki/History_of_blogging#2001.E2.80.932004) and [Dan https://web.archive.org/web/*/http://hairyeyeball.netBricklin](https://en.wikipedia.org/wiki/Dan_Bricklin), I think it was -- father of the spreadsheet -- came out with something I think it was called HomeSite. Or was that the [Macromedia product](https://en.wikipedia.org/wiki/Macromedia_HomeSite)? 
+I was around when [blogs were invented and designated as such](https://en.wikipedia.org/wiki/History_of_blogging#2001.E2.80.932004) and [Dan Bricklin](https://en.wikipedia.org/wiki/Dan_Bricklin), I think it was -- father of the spreadsheet -- came out with something I think it was called HomeSite. Or was that the [Macromedia product](https://en.wikipedia.org/wiki/Macromedia_HomeSite)? 
 
 But time marches on.
 
 ### Current Projects
 
 I have just finished testing a ton of [flat-file 
-CMS]](http://www.flatphile.co/) solutions and a ton and a half of 
+CMS](http://www.flatphile.co/) solutions and a ton and a half of 
 [static site generators](https://www.staticgen.com/) over the past few 
 months.
 
 I have a working toolset now, one that I am fairly adept at using -- 
 considering I majored in poetry. 
 
-I would really like to start building 
-sites for NGOs -- in Portuguese, ONGs and OSCIPs -- as well as artists 
-and professionals, hosting them here on GitHub if possible.
+I would really like to start building sites for NGOs -- in Portuguese, 
+[ONGs](http://www.abong.org.br/links.php) and OSCIPs -- as well as 
+artists and private-practice professionals, hosting them here on GitHub 
+if possible.
 
 I am hosting my personal wiki with [Nearly Free Speech](http://sambodianas.nfshost.com/) but to my shame cannot even afford their rock-bottom prices. 
 
