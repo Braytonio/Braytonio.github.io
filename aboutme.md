@@ -38,7 +38,7 @@ And [The Hairy Eyeball](https://web.archive.org/web/*/http://hairyeyeball.net) i
 
 I would still like to find where I blogged Nine-Eleven, if I was not too shell-shocked to record my reaction. And then there is a YouTube channel somewhere with exercises in subtitling and living out that Talking Heads song: 
 
-«They might be better off I think / The way it seems to me / Making up their own shows /Which might be better than TV ...»
+«They might be better off I think / The way it seems to me / Making up their own shows / Which might be better than TV ...»
 
 Em fim: [What a long strange trip it's been](https://www.youtube.com/watch?v=pafY6sZt0FE).
 
@@ -51,7 +51,7 @@ Watch [this space](https://neuza-paranhos.github.io/): I intend to build The New
 ### The Post-Modern Publshing Professional
 
 Write something here about keeping up all the latest trends in 
-publishing and how I have personakl experience in everything from linotype -- as a paperboy with the [South Pasadena Review](https://www.facebook.com/South-Pasadena-Review-629113357233067/) in the early 1970s -- to dedicated WordPerfect terminals and phototypesetting to making a Quark server play nice with a ColdFusion Web server and so on and so forth.
+publishing and how I have personal experience in everything from linotype -- as a paperboy with the [South Pasadena Review](https://www.facebook.com/South-Pasadena-Review-629113357233067/) in the early 1970s -- to dedicated WordPerfect terminals and phototypesetting with hot-wax layout to making a Quark server play nice with a ColdFusion Web server and so on and so forth.
 
 I like to boast I was around when [blogs were invented and designated as such](https://en.wikipedia.org/wiki/History_of_blogging#2001.E2.80.932004) and [Dan Bricklin](https://en.wikipedia.org/wiki/Dan_Bricklin), I think it was -- father of the spreadsheet -- came out with something I think it was called HomeSite. Or was that the [Macromedia product](https://en.wikipedia.org/wiki/Macromedia_HomeSite)? 
 
