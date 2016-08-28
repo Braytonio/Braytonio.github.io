@@ -8,21 +8,20 @@ published: true
 ![Radio 
 Days](https://raw.githubusercontent.com/Braytonio/Braytonio.github.io/master/img/radio250.png)
 
-How do I scale and position images in Markdown? 
+How do I scale and position images in Markdown? <!--more-->
 
 Is there some sort of [plugin](https://github.com/datenstrom/yellow-plugins/tree/master/image)?
 
 ### Dates & Data
-Colin Brayton is a São Paulo, Brazil based translator, editor and journalist.
+Colin Brayton is a São Paulo, Brazil-based translator, editor and journalist.
 
 Borned and raised in Lost Angles, California (1960s-198s), Colin spent formative periods in the San Francisco Bay Area (1984-1996) and Brooklyn, New York (1996-2007) as well. 
  
-Colin has a Master's degree in Comparative Literature from Berserkeley in medieval literature and also completed a ton of doctoral coursework in 
-Romance philology and Arabic literature while teaching lit and comp to freshmen.
+Colin has a Master's degree in Comparative Literature from Berserkeley in medieval literature and also completed a ton of doctoral coursework in Romance philology and Arabic literature while teaching lit and comp to freshmen.
 
-This was before getting a life, moving to New York, and going to work as a journeyman [copy editor](http://www.copydesk.org/). 
+This was before Colin got a life, moving to New York City and going to work as a journeyman [copy editor](http://www.copydesk.org/). 
 
-Among many gigs, I -- back to the first person -- worked as copy chief of an Internet economy publication -- this was pre-9/11 -- and as managing editor and interim chief at a securities industry trade weekly. 
+Among many gigs, I -- the third person is pretentious -- worked as copy chief of an Internet economy publication -- this was pre-9/11 -- and as managing editor and interim chief at a securities industry trade weekly. 
 
 Lots of fascinating stories on the early days of enterprise Linux on a massive scale. 
 
@@ -36,7 +35,9 @@ Remarkably, some of my Blogger blogs from those days are still live.
 
 And [The Hairy Eyeball](https://web.archive.org/web/*/http://hairyeyeball.net) is to be found on The Wayback Machine, dating from May 2002. 
 
-I would still like to find where I blogged Nine-Eleven, if I was not too shell-shocked to record my reaction. And then there is a YouTube channel somewhere with exercises in subtitling and living out that Talking Heads song: 
+I would still like to find where I blogged Nine-Eleven, if I was not too shell-shocked to record my reaction. 
+
+And then there is a YouTube channel somewhere with exercises in subtitling and living out that Talking Heads song: 
 
 «They might be better off I think / The way it seems to me / Making up their own shows / Which might be better than TV ...»
 
