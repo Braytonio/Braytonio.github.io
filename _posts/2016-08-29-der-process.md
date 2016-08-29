@@ -1,18 +1,16 @@
 ---
 title: Der Process
 author: Colin Brayton
-tags: brasil, politics, impeachment, expat, journalism, media, media blitz
 ---
 
 
 The trial of President Dilma Rousseff is the story of the hour here in Sambodia. 
 
-Since we no longer have basic cable, we search for a live feed of Dilma's testimony. 
+Since we no longer have basic cable, we search for a live feed of Dilma's testimony online. 
 
-It is difficult to find. 
+It is a little difficult to find. 
 
-Neuza finally locates it [on the site of the 
-Spanish daily El País](http://brasil.elpais.com/brasil/2016/08/29/politica/1472443953_429513.html), Brazilian edition.
+Neuza finally locates it [on the site of the Spanish daily El País](http://brasil.elpais.com/brasil/2016/08/29/politica/1472443953_429513.html), Brazilian edition.
 
 >Hoje eu só temo a morte da democracia.
 

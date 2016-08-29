@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: The Ant Irony Bloc
+title: Sambodianas LLC
 
 # Short description of your site
-description: Anagrammatically Colin Brayton, Oulipean
+description: Ant Irony Bloc is anagrammatically Colin Brayton, Oulipeano
 
 # --- Navigation bar options --- #
 
@@ -40,6 +40,12 @@ navbar-links:
     - Antergos: "https://forum.antergos.com/topic/2206/antergos-vs-manjaro/3"
     - Linux Mint Debian Edition: "https://www.linuxmint.com/download_lmde.php"
     - Cinnamon Desktop: https://github.com/linuxmint/Cinnamon"
+Past Presence:
+    - The Blind Tangerine: http://blindtangerine.blogspot.com.br/
+    - The Red Actor: http://theredactor.blogspot.com.br/
+    - The New Market Machines: http://cbrayton.wordpress.com
+    - The New World Lusophone Sousaphone: http://tupiwire.wordpress.com
+    - O Bicho-Preguiça: http://obicho.wordpress.com
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
