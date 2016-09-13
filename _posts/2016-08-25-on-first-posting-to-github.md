@@ -20,7 +20,7 @@ I was just trying to drum up business.
 
 The title of this site is subject to change, by the way.
 
-I am an [anagram](http://wordsmith.org/anagram/) and [Oulipo](http://www.languageisavirus.com/articles/articles.php?subaction=showcomments&id=1161978000#.V78-JWQrLVM) enthusiast, but not everyone gets this, and I do want to be taken seriously. 
+I am an [anagram](http://wordsmith.org/anagram/) and [Oulipo](http://www.languageisavirus.com/articles/articles.php?subaction=showcomments&id=1161978000#.V78-JWQrLVM) enthusiast, but not everyone gets this. And I do want to be taken seriously. I am serious about my satire and my Sprachspiel and mmy jouissance!
 
 ### Here In Brazil
 
